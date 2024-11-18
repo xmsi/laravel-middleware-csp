@@ -1,5 +1,5 @@
 {
-    "name": "stevenmaguire/laravel-middleware-csp",
+    "name": "xmsi/laravel-middleware-csp",
     "description": "Provides support for enforcing Content Security Policy with headers in Laravel responses.",
     "keywords": [
         "middleware",
